@@ -72,6 +72,6 @@ function dataHandling2(arr) {
 	let arrSlice = arr[1].slice(0, 14);
 
 	console.log(arrSlice);
- }
+}
 
 dataHandling2(input);
