@@ -1,7 +1,7 @@
 /**
- * HACKTIV8 Phase 0 - Menggunakan Switch Case
+ * HACKTIV8 Phase 0 - Mengakses Nilai dalam Array
  * Code Skeleton made by HACKTIV8 Team, solved by Adam Rafiandri
- */
+*/
 
 
 

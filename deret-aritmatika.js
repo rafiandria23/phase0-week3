@@ -1,5 +1,5 @@
 /**
- * HACKTIV8 Phase 0 - Menggunakan Switch Case
+ * HACKTIV8 Phase 0 - Logic Challenge - Tentukan Deret Aritmatika
  * Code Skeleton made by HACKTIV8 Team, solved by Adam Rafiandri
 */
 

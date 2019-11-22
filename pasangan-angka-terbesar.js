@@ -1,3 +1,12 @@
+/**
+ * HACKTIV8 Phase 0 - Logic Challenge - Pasangan Angka Terbesar
+ * Code Skeleton made by HACKTIV8 Team, solved by Adam Rafiandri
+*/
+
+
+
+
+
 function pasanganTerbesar(num) {
     let numString = num.toString();
     let numResult = [];
