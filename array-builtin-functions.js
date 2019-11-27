@@ -65,9 +65,9 @@ function dataHandling2(arr) {
 
 	console.log(arrSort);
 
-	let arrJoin = arrSort.join('-');
+	let arrTanggalNumber = input[3].split('/').join('-');
 
-	console.log(arrJoin);
+	console.log(arrTanggalNumber);
 
 	let arrSlice = arr[1].slice(0, 14);
 
